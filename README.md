@@ -19,3 +19,7 @@ $ python2 ig-c.py
 
 # screenshot
 <img src="https://i.ibb.co/mRLXdmR/Screenshot-2019-11-17-02-40-12.png" border="0">
+
+## TUTORIAL?
+* [CLICK HERE](https://youtu.be/3SlGFuV1kfA)
+
